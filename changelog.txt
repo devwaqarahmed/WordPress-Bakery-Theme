@@ -1,0 +1,15 @@
+Version 1.0
+1) Initial version release.
+
+Version 2.0
+1) Fixed gallery filter issue.
+2) Fixed customizer issues(some fields were not working properly).
+3) Fixed theme demo import issue(homepage was appearing broken).
+
+Version 3.0
+1) Updated Google Fonts 
+2) Resolved Major Security Issue
+
+Version 4.0
+1) Updated Google Fonts.
+2) Made fonts GDPR compliant.
